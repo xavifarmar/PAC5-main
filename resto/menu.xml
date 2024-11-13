@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <category name="Desayuno">
+        <item>
+            <name>Huevo Frito</name>
+            <price>$30</price>
+            <description>Huevo frito con tocino</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Tostada con Jamón</name>
+            <price>$20</price>
+            <description>Tostada integral con jamón</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Huevos Revueltos</name>
+            <price>$30</price>
+            <description>Huevos revueltos con cebollas</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Bocadillo de Queso</name>
+            <price>$20</price>
+            <description>Bocadillo de pan integral</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+    </category>
+    <category name="Primeros">
+        <item>
+            <name>Bistec</name>
+            <price>$50</price>
+            <description>Bistec de res a la parrilla</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Ensalada César</name>
+            <price>$25</price>
+            <description>Ensalada fresca con pollo</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Huevo Frito</name>
+            <price>$30</price>
+            <description>Huevo frito con tocino</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Tostada con Jamón</name>
+            <price>$20</price>
+            <description>Tostada integral con jamón</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+    </category>
+    <category name="Cena">
+        <item>
+            <name>Salmón</name>
+            <price>$40</price>
+            <description>Salmón a la parrilla servido</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Pasta Primavera</name>
+            <price>$35</price>
+            <description>Pasta con verduras frescas</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Lubina</name>
+            <price>$35</price>
+            <description>Lubina a la parrilla</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+        <item>
+            <name>Sopa de Galets</name>
+            <price>$35</price>
+            <description>Sopa de pasta con caldo de carne</description>
+            <image>img/breakfast-1.jpg</image>
+        </item>
+    </category>
+</menu>
